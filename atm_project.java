@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 class Atm{
 
-
+// Enter pin -> 1234
 
     float Balance ;
     int pin = 1234;
